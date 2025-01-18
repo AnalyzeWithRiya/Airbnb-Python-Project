@@ -1,8 +1,10 @@
 # Airbnb-Python-Project
 
 
+
 ## Overview
 This project explores and analyzes Airbnb listings using Python. It includes key insights, visualizations, and an interactive dashboard for deeper data exploration. The dashboard uses Dash and Plotly to enable interactive data analysis with filters and visualizations.
+
 
 
 ## Objectives
@@ -10,6 +12,7 @@ This project explores and analyzes Airbnb listings using Python. It includes key
 - Clean and preprocess the data for accurate insights.
 - Conduct univariate, bivariate, and geospatial analyses to identify patterns and trends.
 - Build an interactive dashboard to make the insights accessible to users.
+
 
 
 ## Database Insights
@@ -22,6 +25,7 @@ This project explores and analyzes Airbnb listings using Python. It includes key
 - number_of_reviews: Total reviews received for the listing.
 - availability_365: Number of days available in a year.
 - latitude and longitude: Coordinates for geospatial analysis.
+
 
 
 ## Features of the Project
